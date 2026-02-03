@@ -86,9 +86,8 @@ not just management.
 ---
 
 ## 📬 Contact
-- **Email:** your@email.com  
-- **LinkedIn:** your-linkedin  
-- **Upwork / Fiverr:** (optional)
+- **Email:** raotouseefahmad1258@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/rao-touseef-ahmad1258/ 
 
 ---
 
