@@ -1,94 +1,98 @@
-Rao Touseef Ahmad
+# Rao Touseef Ahmad  
+**Senior Mobile App Developer (Android & iOS) | 10+ Years Experience**
 
-Senior Mobile App Developer | Android & iOS | 10+ Years Experience
+I’m a senior mobile application developer with **10+ years of hands-on experience**
+building, scaling, and maintaining real-world Android and iOS applications.
 
-I’m a senior mobile application developer with 10+ years of hands-on experience building, scaling, and maintaining production-grade Android and iOS applications.
+My focus is on **clean architecture, performance, scalability, and long-term
+maintainability** — not just shipping features.
 
-My work focuses on performance, clean architecture, long-term maintainability, and solving real product problems — not just shipping features.
+I’ve worked on **300+ mobile apps**, including consumer apps, social platforms,
+AI-powered tools, audio/video apps, and large-scale production systems.
 
-I’ve worked on 300+ mobile apps, including social platforms, AI-powered tools, audio/video apps, utilities, and large-scale consumer products.
+---
 
-🎥 Quick Introduction (Video)
+## 🎥 Quick Introduction
+If you prefer a short overview instead of reading everything:
 
-If you prefer a short intro instead of reading everything, here’s a brief overview of who I am and how I work:
+▶️ **YouTube Intro:** https://youtu.be/DSghXAwmlL4
 
-▶️ Watch here: https://youtu.be/DSghXAwmlL4
+This video is especially useful for clients and founders reviewing my profile.
 
-(This video is also useful for clients who land on GitHub from Upwork or Fiverr.)
+---
 
-🧠 What I Actually Do (Core Focus)
-Native Mobile Development
+## 🧠 Core Expertise
 
-Android – Kotlin, Java, Android Studio
-Clean architecture (MVVM, MVI), performance tuning, background tasks, memory optimization.
+### Native Mobile Development
+- **Android** — Kotlin, Java, Android Studio  
+  MVVM / clean architecture, background processing, memory & performance optimization
+- **iOS** — Swift, Xcode  
+  UIKit & SwiftUI, async handling, App Store compliance, production debugging
 
-iOS – Swift, Xcode
-UIKit & SwiftUI, async handling, Apple guidelines compliance, App Store readiness.
+### Cross-Platform (When Business Logic Makes Sense)
+- **Flutter** — real production experience  
+  Platform channels, performance-aware UI, hybrid architecture decisions
 
-Cross-Platform (When It Makes Sense)
+### Backend & App Infrastructure
+- REST APIs, Firebase, AWS
+- Secure authentication (JWT)
+- Cloud Functions, background jobs
+- Push notifications & real-time updates
 
-Flutter – Used selectively when business goals justify it
-Platform channels, performance-aware UI, real-world production experience.
+### App Quality & Scaling
+- Taking over existing / legacy codebases
+- Refactoring poor architecture
+- Debugging production-level issues
+- Load testing & performance tuning
+- Play Store & App Store submissions
 
-Backend & App Infrastructure
+---
 
-REST APIs, Firebase, AWS
+## 📱 Real-World App Case Studies
+Most of my professional work is in **private client repositories**.
+To showcase real experience without violating NDAs, I document selected projects
+as **case studies** instead of sharing source code.
 
-Secure auth (JWT), scalable databases
+📂 **Case Studies Repository:**  
+👉 `mobile-app-case-studies`
 
-Cloud Functions, background workers, push notifications
+Each case study includes:
+- App overview & purpose
+- My role & responsibilities
+- Tech stack & architecture decisions
+- Key challenges & solutions
+- Screenshots
+- Direct App Store / Play Store links
 
-App Quality & Scaling
+---
 
-Architecture refactoring
+## 🏢 Work Setup
+I work independently and also run a development team under **Growmore Devs**.
 
-Debugging complex production issues
-
-Load testing & optimization
-
-Store submission & compliance (Google Play / App Store)
-
-📱 Selected Real-World Apps
-
-A few examples of apps I’ve worked on:
-
-TicketDraws – Ticket booking & draws platform
-
-Woome – Dating & social interaction mobile app
-
-AI-based content & productivity apps
-
-Audio / video streaming & utility apps
-
-Most repositories here are private or client-owned, which is why GitHub activity doesn’t always reflect total experience.
-
-🏢 About My Work Setup
-
-I run a development team under Growmore Devs, handling long-term products and client partnerships.
-My role is hands-on development + technical decision-making, not just management.
+My role remains **hands-on development and technical decision-making** —
+not just management.
 
 🌐 https://growmoredevs.com
 
-🤝 How to Work With Me
+---
 
-I usually help with:
+## 🤝 How I Usually Help
+- Building mobile apps **from scratch**
+- Improving or rescuing **existing codebases**
+- Performance & architecture audits
+- Long-term product development
+- Technical guidance for non-technical founders
 
-Building apps from scratch
+---
 
-Taking over existing / broken codebases
+## 📬 Contact
+- **Email:** your@email.com  
+- **LinkedIn:** your-linkedin  
+- **Upwork / Fiverr:** (optional)
 
-Performance & architecture improvements
+---
 
-Long-term product development
-
-📩 Reach me via:
-
-Email: your@email.com
-
-LinkedIn: your-linkedin
-
-Upwork / Fiverr: (if you want, we can add this cleanly)
-
-Final Note
-
-I don’t chase trends — I build stable, scalable apps that survive real users and real traffic.
+### Final Note
+I don’t chase trends or hype.  
+I build **stable, scalable mobile applications** that survive real users,
+real traffic, and real business demands.
