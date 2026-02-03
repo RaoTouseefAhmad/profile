@@ -54,7 +54,15 @@ To showcase real experience without violating NDAs, I document selected projects
 as **case studies** instead of sharing source code.
 
 📂 **Case Studies Repository:**  
-👉 `mobile-app-case-studies`
+👉 https://github.com/RaoTouseefAhmad/mobile-app-case-studies
+
+### Featured Case Study
+- **Calzo AI – Calorie Counter**  
+  AI-powered calorie tracking mobile app focused on reducing manual food logging
+  through intelligent calorie estimation.  
+  👉 **Read full case study:**  
+  https://github.com/RaoTouseefAhmad/mobile-app-case-studies/blob/main/calzo-ai/README.md
+
 
 Each case study includes:
 - App overview & purpose
