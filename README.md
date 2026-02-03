@@ -1,40 +1,94 @@
-# Rao Touseef Ahmad
+Rao Touseef Ahmad
 
-### Mobile App and Game Developer | Team Lead at Growmore Devs
+Senior Mobile App Developer | Android & iOS | 10+ Years Experience
 
-Welcome to my GitHub profile! I am Rao Touseef Ahmad, a seasoned developer with over a decade of experience in mobile app and game development. My comprehensive skill set spans across native, hybrid, and game development platforms, making me a versatile asset in the tech world. Currently, I lead a talented team of developers at [Growmore Devs](http://growmoredevs.com).
+I’m a senior mobile application developer with 10+ years of hands-on experience building, scaling, and maintaining production-grade Android and iOS applications.
 
-## Skills and Expertise
+My work focuses on performance, clean architecture, long-term maintainability, and solving real product problems — not just shipping features.
 
-### Mobile App Development
-- **Android**: Expert in Kotlin and Java with 10 years of experience.
-- **iOS**: Proficient in Swift and Xcode with 10 years of experience.
-- **Hybrid Apps**: Skilled in Flutter with 4 years of experience in developing cross-platform mobile applications.
+I’ve worked on 300+ mobile apps, including social platforms, AI-powered tools, audio/video apps, utilities, and large-scale consumer products.
 
-### Game Development
-- **Unity**: 3 years of experience in creating 2D and 3D games for both Android and iOS platforms.
+🎥 Quick Introduction (Video)
 
-## Projects and Contributions
+If you prefer a short intro instead of reading everything, here’s a brief overview of who I am and how I work:
 
-Throughout my career, I have worked on a diverse range of projects, from mobile apps to engaging and immersive games. My GitHub repositories showcase some of my work and contributions in these areas. Below are a few highlights:
+▶️ Watch here: https://youtu.be/DSghXAwmlL4
 
-- **[Project Name or Link]**: Ticket Draws Mobile app (Ticketdraws.com)
-- **[Project Name or Link]**: Woome Dating Mobile App
+(This video is also useful for clients who land on GitHub from Upwork or Fiverr.)
 
-## About Growmore Devs
+🧠 What I Actually Do (Core Focus)
+Native Mobile Development
 
-I am proud to lead [Growmore Devs](http://growmoredevs.com), a dynamic team of developers proficient in various technological areas. Our mission is to deliver high-quality software solutions that drive growth and innovation.
+Android – Kotlin, Java, Android Studio
+Clean architecture (MVVM, MVI), performance tuning, background tasks, memory optimization.
 
-## Get in Touch
+iOS – Swift, Xcode
+UIKit & SwiftUI, async handling, Apple guidelines compliance, App Store readiness.
 
-I am always open to collaborating on exciting projects and discussing innovative ideas. Feel free to reach out to me through the following channels:
+Cross-Platform (When It Makes Sense)
 
-- **Email**: [your email]
-- **LinkedIn**: [your LinkedIn profile]
-- **Twitter**: [your Twitter handle] (if applicable)
+Flutter – Used selectively when business goals justify it
+Platform channels, performance-aware UI, real-world production experience.
 
-Thank you for visiting my GitHub profile. Let's build something amazing together!
+Backend & App Infrastructure
 
----
+REST APIs, Firebase, AWS
 
-Feel free to modify the content to better fit your personal style or to include additional information about your projects and contributions.
+Secure auth (JWT), scalable databases
+
+Cloud Functions, background workers, push notifications
+
+App Quality & Scaling
+
+Architecture refactoring
+
+Debugging complex production issues
+
+Load testing & optimization
+
+Store submission & compliance (Google Play / App Store)
+
+📱 Selected Real-World Apps
+
+A few examples of apps I’ve worked on:
+
+TicketDraws – Ticket booking & draws platform
+
+Woome – Dating & social interaction mobile app
+
+AI-based content & productivity apps
+
+Audio / video streaming & utility apps
+
+Most repositories here are private or client-owned, which is why GitHub activity doesn’t always reflect total experience.
+
+🏢 About My Work Setup
+
+I run a development team under Growmore Devs, handling long-term products and client partnerships.
+My role is hands-on development + technical decision-making, not just management.
+
+🌐 https://growmoredevs.com
+
+🤝 How to Work With Me
+
+I usually help with:
+
+Building apps from scratch
+
+Taking over existing / broken codebases
+
+Performance & architecture improvements
+
+Long-term product development
+
+📩 Reach me via:
+
+Email: your@email.com
+
+LinkedIn: your-linkedin
+
+Upwork / Fiverr: (if you want, we can add this cleanly)
+
+Final Note
+
+I don’t chase trends — I build stable, scalable apps that survive real users and real traffic.
